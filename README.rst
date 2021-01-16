@@ -1,4 +1,4 @@
-跟我一起写Makefile (PDF重制版)
+跟我一起写Makefile (PDF重制版)_
 ##############################
 
 .. image:: https://travis-ci.org/seisman/how-to-write-makefile.svg?branch=master
